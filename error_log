@@ -1,0 +1,4 @@
+[15-Jul-2019 11:14:30 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'yuwaroot'@'localhost' (using password: YES) in /home/vrlwialldbyx/yuwa-internal.xyz/db.php on line 3
+[15-Jul-2019 11:14:41 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'yuwaroot'@'localhost' (using password: YES) in /home/vrlwialldbyx/yuwa-internal.xyz/db.php on line 3
+[15-Jul-2019 11:15:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'yuwaroot'@'localhost' (using password: YES) in /home/vrlwialldbyx/yuwa-internal.xyz/db.php on line 3
+[15-Jul-2019 11:15:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'yuwaroot'@'localhost' (using password: YES) in /home/vrlwialldbyx/yuwa-internal.xyz/db.php on line 3
